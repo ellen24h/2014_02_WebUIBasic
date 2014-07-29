@@ -1,0 +1,37 @@
+body {
+	width : 100%;
+	height : 100%;
+	border : 1px solid red;
+	background: lightgrey;
+}
+
+ ul { 
+    list-style-type:none; 
+ } 
+
+ header {
+ 	width: 100%;
+ 	height: 200px;
+ }
+
+ nav {
+ 	float: left;
+ }
+
+ section {
+ 	clear : both;
+ 	margin-left: 300px;
+ }
+
+ ul > li{
+ 	float: left;
+ 	margin-right: 10px;
+
+ 	width: 250px;
+ 	heght: 300px;
+ }
+
+
+
+ zzㅋㅋㅋ....ㅠㅠㅠㅠㅠㅠ
+ 총체적 난국
